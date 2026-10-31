@@ -1,7 +1,8 @@
 # dsh-memory-studio
 
-A visual memory manager for DeepSeek Harness: local JSON stores, a **记忆** tab
-with four views, and eleven tools an agent can call.
+A visual memory manager for DeepSeek Harness: local JSON stores, five views over
+what it remembers, and twelve tools an agent can call — with no server and no
+API key.
 
 Everything is local. No API key, no server, no dependency to install.
 
