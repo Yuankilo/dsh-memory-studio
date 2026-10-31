@@ -192,7 +192,14 @@ hairball. Clicking a point opens a drawer with what it connects to and why;
 
 ## Install
 
-The plugin lives in the profile's `node_modules`:
+The plugin lives in the profile's `node_modules`. Straight from this repo:
+
+```powershell
+git clone https://github.com/Yuankilo/dsh-memory-studio `
+  "$env:DSH_HOME\profiles\desktop\node_modules\dsh-memory-studio"
+```
+
+Or copy a checkout of it:
 
 ```powershell
 Copy-Item -Recurse . "$env:DSH_HOME\profiles\desktop\node_modules\dsh-memory-studio"
