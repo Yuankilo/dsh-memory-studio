@@ -1,0 +1,15 @@
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+# Your memories are not part of the code — never commit them.
+memories.json
+profile.json
+inbox.json
+settings.json
+*.corrupt-*
+
+# Local scratch used while building this repo.
+resume-text.json
+test/extract-resume.py
